@@ -1,0 +1,8 @@
+ASSET_PATH = "../doze"
+OUTPUT_DIR = "output"
+GRID_SIZE = 0.1
+SCENE_TYPE = "dynamic_fixed"
+SCENE_ID = 0
+EPISODE_TYPE = "OV"
+
+OUTPUT_RESOLUTION = (400, 400)
